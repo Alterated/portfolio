@@ -15,7 +15,7 @@ body {
     min-height: 100vh;
     background-attachment: fixed;
 
-    max-width: 1100px;
+    max-width: 1300px;
     margin: 40px auto;
     padding: 0 24px;
 }
@@ -31,14 +31,14 @@ h1, h2, h3 {
 
 h1 {
     font-size: 3em;
-    padding-bottom: 0.3em;
+    padding-bottom: 0.4em;
     border-bottom: 1px solid #30363d;
 }
 
 h2 {
     font-size: 2em;
     padding-bottom: 0.3em;
-    border-bottom: 1px solid #30363d
+    border-bottom: 1px solid #30363d;
 }
 
 h3 {
@@ -85,14 +85,6 @@ header nav a {
 
 section {
     margin-bottom: 48px;
-}
-
-.navigation-card {
-    background-color: #222020;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 15px;
 }
 
 .project-card h3 {
